@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: quantum-from-newton
+message: >-
+  If you use this software, please cite both the software and the
+  manuscript whose figures it reproduces.
+type: software
+authors:
+  - given-names: Dennis M.
+    family-names: Heim
+    email: physics@d-heim.de
+    city: Kaiserslautern
+    country: DE
+license: MIT
+repository-code: "https://github.com/demaheim/quantum-from-newton"
+abstract: >-
+  Simulation of a one-dimensional chain of companion particles moving under
+  Newton's equations with a local interaction built from signed inverse
+  neighbour gaps. Reproduces the particle-in-a-box and harmonic-oscillator
+  stationary densities and the double-slit interference pattern predicted by
+  the Schrödinger equation, without adjustable parameters.
+keywords:
+  - foundations of quantum mechanics
+  - Schrödinger equation
+  - emergent quantum mechanics
+references:
+  - type: article
+    title: "From Newton's equations to the Schrödinger equation: domain walls as the quantization condition"
+    authors:
+      - given-names: Dennis M.
+        family-names: Heim
