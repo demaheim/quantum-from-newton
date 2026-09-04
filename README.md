@@ -1,6 +1,6 @@
 # quantum-from-newton
 
-Simulation code for the manuscript ***From Newton's equations to the Schrödinger equation: domain walls as the quantization condition***.
+Simulation code for the manuscript [From Newton's equations to the Schrödinger equation: domain walls as the quantization condition](https://arxiv.org/abs/2511.13748).
 It reproduces every figure in that paper and is meant to be built on.
 
 A line of binary-polarized *companion particles* moves under Newton's equations. They interact only with their
